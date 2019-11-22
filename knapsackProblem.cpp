@@ -1,4 +1,4 @@
-/* Choose which elements to select to maximize profit and minimize weight*/
+// Choose which elements to select to maximize profit and minimize weight
 #include <bits/stdc++.h>
 using namespace std;
 int max(int a, int b)
